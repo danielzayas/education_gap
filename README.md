@@ -4,7 +4,7 @@ by Daniel Zayas & Ann Galloway
 
 ### Summary
 * Gathered, cleaned, prepared, and joined disparate datasets
-* Visualized average SAT score, as metric for academic performance, by NY Pulblic School District. Compared to income, race, and language.
+* Visualized average SAT score as metric for academic performance by NY Public School District. Compared to income, race, and language.
 
 ![sat](https://user-images.githubusercontent.com/31169718/32192235-daaa2bb0-bd70-11e7-8b41-575cffc38298.png)
 ![income](https://user-images.githubusercontent.com/31169718/32192241-df753ef0-bd70-11e7-99c0-f766b904c9b5.png)
