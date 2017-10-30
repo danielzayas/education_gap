@@ -1,4 +1,4 @@
-# Eduation Gap: New York City Public Schools
+# Education Gap: New York City Public Schools
 
 by Daniel Zayas & Ann Galloway
 
